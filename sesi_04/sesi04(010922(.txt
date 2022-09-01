@@ -1,7 +1,0 @@
-Sesi O4 (010922)
-
---Intro to React--
-
->React berporos pada komponen yang membentuk halaman web (menggabung antar komponen react)
-
->Pengembangan aplikasi mobile (React native), aplikasi VR (React VR), aplikasi CLI(
