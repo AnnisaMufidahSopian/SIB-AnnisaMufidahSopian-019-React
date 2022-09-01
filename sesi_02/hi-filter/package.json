@@ -1,0 +1,12 @@
+{
+  "name": "hi-filter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hi-filter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
