@@ -1,0 +1,17 @@
+{
+  "name": "hi-asyncawait",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asyncAwait.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "underscore": "^1.13.4"
+  }
+}
