@@ -43,10 +43,8 @@ Penggunaan tanda kurung
 function doWork() 
 doWork()
 
-
 2. Penggunaan kurung kurawal {}
 let kendaraan = {nama : "mobil", warna : "merah"}
-
 
 3. Penggunaan Kurung Siku []
 let arr = ["mobil", "merah"]
