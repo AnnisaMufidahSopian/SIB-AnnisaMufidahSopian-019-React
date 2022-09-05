@@ -77,3 +77,6 @@ const VideoData = [
         ]
     },
 ]
+let result = VideoData.filter((isPresent) => isPresent.present == true);
+console.log("Jumlah Present = " + result.length);
+console.log(result);
