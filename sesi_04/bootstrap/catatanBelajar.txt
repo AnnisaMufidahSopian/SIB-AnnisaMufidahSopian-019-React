@@ -1,0 +1,10 @@
+catatan belajar react-bootstrap
+
+>cara instalasi : npm i react-bootstrap <namaFile>
+
+yg bikin error :
+
+>nama file harus diawali huruf besar
+>jangan pake nama file yg merupakan komponen bootstrapnya
+>tanda "<> </>" bisa menggantikan div 
+>harus import react di semua module
