@@ -44,3 +44,8 @@ Can work with DOM, run side effects, schedule updates
 >componentWillUnmount()
 -dipanggil sebelum menghapus komponen dari DOM.
 -bisa bersih-bersih di class method ini
+
+4. Error Handling
+
+>componentDidCatch()
+-digunakan untuk menampilkan pesan error yang lebih baik
