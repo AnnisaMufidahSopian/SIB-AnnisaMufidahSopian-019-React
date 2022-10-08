@@ -1,0 +1,27 @@
+Session 1 (230822) 19.00 - 22.00
+Delivered by : Kak Arif Setiawan from Bandar Lampung
+
+
+-JS ES6 bisa pake ; atau engga, tapi harus konsisten
+
+-variabel : tempat penyimpanan suatu nilai, dan nilainya bisa diubah ubah, tetapi tidak bisa digunakan untuk beberapa nilai sekaligus (kecuali array)
+
+-deklarasi variabel JS : let, var, const
+>deklarasi dgn let nilainya tidak bisa direplace oleh nilai baru dgn nama variabel yg sama (akan terjadi error)
+>deklarasi dgn var nilainya bisa direplace, bersifat global
+>untuk skrg let lebih baik, var sudah tidak digunakan
+>let dipengaruhi oleh scope 
+>let dan const untuk block scope, sdgkan var untuk global scope
+>let deklarasi harus didahulukan, var deklarasi bisa dimana saja
+
+>const berbentuk objek / array bisa diubah
+>const selain objek / array (assign data) tdk bisa diubah
+
+-dalam JS tidak bisa dilakukan operasi penjumlahan antara string dgn number, jika terjadi operasi concat dengan operator + dengan tipe data number, maka akan menghasilkan NaN (Not a Number). penjumlahan hanya dapat dilakukan jika kedua operand nya number jga.
+
+-3 metode operasional array pada JS yg sangat penting
+>merge 2 array (menggunakan push.apply)
+>menghapus elemen array sesuai indeks dapat menggunakan splice {namaArray.splice(namaVar, indeks yg ingin dihapus)}
+>mengosongkan array dapat menggunakan splice {namaArray.splice(0, namaArray.length)}
+
+-array multidimensi
